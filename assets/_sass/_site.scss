@@ -296,6 +296,7 @@ canvas {
   font: 0/0 verdana;
   color: transparent;
   text-shadow: none;
+  border-radius: 50%;
 }
 
 .main-info,
@@ -457,6 +458,7 @@ canvas {
     position: absolute;
     img {
       width: 50px;
+      border-radius: 50%;
       height: auto;
     }
     &:after {
