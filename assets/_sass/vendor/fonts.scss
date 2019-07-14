@@ -7,6 +7,15 @@
 }
 
 @font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../fonts/playfairdisplay-bolditalic-webfont.woff2') format('woff2'), 
+       url('../fonts/playfairdisplay-bolditalic-webfont.woff') format('woff'), 
+       url('../fonts/playfairdisplay-bolditalic-webfont.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'LiberationMonoRegular';
   src: url('../fonts/liberation-mono-webfont.eot');
   src: url('../fonts/liberation-mono-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/liberation-mono-webfont.woff') format('woff'), url('../fonts/liberation-mono-webfont.ttf') format('truetype'), url('../fonts/liberation-mono-webfont.svg#LiberationMonoRegular') format('svg');
