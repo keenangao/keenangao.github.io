@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# About 
 
 Hi, I'm Keenan!
 
-Welcome to my home. Here's where I post about my photography journey.
+Welcome to my home. Here's where I post about my photography journey. 
